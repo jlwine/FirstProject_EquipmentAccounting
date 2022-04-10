@@ -1,0 +1,16 @@
+﻿<Window x:Class="SRB.EqAccountingDel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SRB"
+        mc:Ignorable="d"
+        Title="EqAccountingDel" Height="200" Width="450" WindowStartupLocation="CenterScreen" WindowStyle="None"
+        >
+    <Grid Background="#FF101921">
+        <Label Content="Выберите оборудование для удаления" HorizontalAlignment="Center"  VerticalAlignment="Top" Background="#00000000" Foreground="#FFE2B2B2" FontSize="16" FontFamily="Franklin Gothic Book" Margin="0,68,0,0" Width="298"/>
+        <ComboBox x:Name="EqAccN" HorizontalAlignment="Center" Margin="0,101,0,0" VerticalAlignment="Top" Width="298" Height="25" FontFamily="Franklin Gothic Book" FontSize="16" Loaded="EqAccN_Loaded"/>
+        <Label Content="Удаление оборудования из учёта" HorizontalAlignment="Center"  VerticalAlignment="Top" Background="#00000000" Foreground="#FFE2B2B2" FontSize="16" FontFamily="Franklin Gothic Book" Margin="0" Width="239"/>
+        <Button x:Name="AccDelBtn" Content="Удалить" HorizontalAlignment="Center"   FontSize="16" Click="AccDelBtn_Click" FontFamily="Franklin Gothic Book" Background="#FF9AE4CF" Margin="158,0,158,10" Width="126" VerticalAlignment="Bottom" Height="25" BorderBrush="White"/>
+    </Grid>
+</Window>

@@ -1,0 +1,42 @@
+﻿<Page x:Class="SRB.EqAccounting"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SRB"
+      mc:Ignorable="d" 
+      d:DesignHeight="587" d:DesignWidth="1258"
+      Title="EqAccounting">
+
+    <Grid>
+        <Frame x:Name="AccMain" Content="" HorizontalAlignment="Left" Height="587" VerticalAlignment="Top" Width="1258" NavigationUIVisibility="Hidden" Background="#FF101921"/>
+        <DataGrid x:Name="AccountingGrid" HorizontalAlignment="Left" Height="542" Margin="10,38,0,0" VerticalAlignment="Top" Width="1230" IsReadOnly="True" CanUserResizeRows="False" CanUserResizeColumns="False" FontSize="16"  FontFamily="Franklin Gothic Book" BorderBrush="Transparent" Foreground="White" Loaded="AccountingGrid_Loaded">
+            <DataGrid.Background>
+                <SolidColorBrush Color="#FF182834"/>
+            </DataGrid.Background>
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FF15222C"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="BorderThickness" Value="0,0,0,2"/>
+                    <Setter Property="FontSize" Value="20"/>
+                    <Setter Property="BorderBrush" Value="Transparent"/>
+                </Style>
+                <Style TargetType="{x:Type DataGridRow}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Setter Property="Foreground" Value="White"/>
+                </Style>
+
+            </DataGrid.Resources>
+        </DataGrid>
+        <Button x:Name="AccAdd" Content="Поставить на учёт оборудование" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="255" Height="35" Background="#FF9AE4CF" FontSize="16" Margin="10,0,0,0" Click="AccAdd_Click" FontFamily="Franklin Gothic Book" BorderBrush="White"/>
+        <Button x:Name="PrintBtn" Content="Печать" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="92" Height="35" Background="#FF9AE4CF" FontSize="16" Margin="1148,3,0,0" Click="PrintBtn_Click" FontFamily="Franklin Gothic Book" BorderBrush="White"/>
+        <Button x:Name="AccDel" Content="Удалить из учёта" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="256" Height="35" Background="#FF9AE4CF" FontSize="16" Margin="326,-2,0,0" FontFamily="Franklin Gothic Book" Click="AccDel_Click" BorderBrush="White"/>
+        <Button x:Name="AccEdit" Content="Редиктировать запись" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="256" Height="35" Background="#FF9AE4CF" FontSize="16" Margin="648,-2,0,0" FontFamily="Franklin Gothic Book" Click="AccEdit_Click" BorderBrush="White"/>
+        <Button x:Name="ResetBtn" Content="Button" HorizontalAlignment="Left" Margin="1286,560,-102,0" VerticalAlignment="Top" Width="74" Click="ResetBtn_Click" Visibility="Hidden"/>
+        <Button x:Name="SearchBtn" Content="Button" HorizontalAlignment="Left" Margin="1285,522,-102,0" VerticalAlignment="Top" Width="75" Click="SearchBtn_Click" Visibility="Hidden"/>
+        <TextBox x:Name="SearchBox" HorizontalAlignment="Left" Height="24" Margin="1285,466,-147,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+        <CheckBox x:Name="ABCchck" Content="CheckBox" HorizontalAlignment="Left" Margin="1299,417,-141,0" VerticalAlignment="Top" Width="100" Visibility="Hidden"/>
+
+    </Grid>
+</Page>

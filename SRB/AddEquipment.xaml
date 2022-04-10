@@ -1,0 +1,25 @@
+﻿<Page x:Class="SRB.AddEquipment"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SRB"
+      mc:Ignorable="d" d:DesignWidth="1400"
+      Title="AddEquipment" Background="#FF1C2F3E" Height="564.5">
+
+
+    <Grid Loaded="Grid_Loaded">
+        <!--<GroupBox Header="Добавление нового оборудования" HorizontalAlignment="Left" Height="297" Margin="10,174,0,0" VerticalAlignment="Top" Width="585" Foreground="White" FontWeight="Bold" FontSize="18" FontFamily="Franklin Gothic Book"/>
+        <Label Content="Название оборудования:" HorizontalAlignment="Left" Margin="33,212,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="#FFE2B2B2" FontSize="14" FontFamily="Franklin Gothic Book"/>
+        <Label Content="Описание: " HorizontalAlignment="Left" Margin="35,274,0,0" VerticalAlignment="Top" Foreground="#FFE2B2B2" FontFamily="Franklin Gothic Book" FontSize="14"/>
+        <TextBox x:Name="OpisanieBox" HorizontalAlignment="Left" Height="102" Margin="33,304,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="544" FontFamily="Franklin Gothic Book" FontSize="16"/>
+        <Button x:Name="AddBtn" Content="Добавить оборудование" HorizontalAlignment="Left" Margin="212,426,0,0" VerticalAlignment="Top" Width="184" Height="32" FontSize="16" Click="AddBtn_Click" FontFamily="Franklin Gothic Book" Background="#FF9AE4CF"/>-->
+        
+        <!--<TextBox x:Name="EquipmentName" HorizontalAlignment="Left" Height="27" Margin="33,242,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="544" FontFamily="Franklin Gothic Book" FontSize="16"/>
+        <Button x:Name="RefreshBtn" Content="Обновить таблицу" HorizontalAlignment="Right"  VerticalAlignment="Bottom" Width="184" Height="32" FontSize="16" Click="RefreshBtn_Click" Background="#FF9AE4CF" Margin="0,0,29,55"/>-->
+        
+
+
+    </Grid>
+
+</Page>

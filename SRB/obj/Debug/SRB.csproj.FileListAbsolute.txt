@@ -1,0 +1,97 @@
+A:\дИПЛОМ\SRB\SRB\bin\Debug\SRB.exe.config
+A:\дИПЛОМ\SRB\SRB\bin\Debug\SRB.exe
+A:\дИПЛОМ\SRB\SRB\bin\Debug\SRB.pdb
+A:\дИПЛОМ\SRB\SRB\obj\Debug\SRB.csprojAssemblyReference.cache
+A:\дИПЛОМ\SRB\SRB\obj\Debug\MainWindow.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\App.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\SRB_MarkupCompile.cache
+A:\дИПЛОМ\SRB\SRB\obj\Debug\SRB_MarkupCompile.lref
+A:\дИПЛОМ\SRB\SRB\obj\Debug\MainWindow.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\SRB.g.resources
+A:\дИПЛОМ\SRB\SRB\obj\Debug\SRB.Properties.Resources.resources
+A:\дИПЛОМ\SRB\SRB\obj\Debug\SRB.csproj.GenerateResource.cache
+A:\дИПЛОМ\SRB\SRB\obj\Debug\SRB.csproj.CoreCompileInputs.cache
+A:\дИПЛОМ\SRB\SRB\obj\Debug\SRB.exe
+A:\дИПЛОМ\SRB\SRB\obj\Debug\SRB.pdb
+A:\дИПЛОМ\SRB\SRB\obj\Debug\PopupUserControl.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\GeneratedInternalTypeHelper.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\PopupUserControl.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\AddEquipment.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\AddEquipment.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\Auth.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\Auth.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\DeleteEq.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\DeleteEq.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EditingEq.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EditingEq.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\Stock.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\Stock.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\Accounting.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\Accounting.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EqAdd.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EqAdd.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EqEdit.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EqEdit.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EqDeleting.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EqDeleting.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EqAccounting.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EqAccounting.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EqAccountReg.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EqAccountReg.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EqAccountingDel.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EqAccountingDel.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\FeedbackCrash.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\FeedbackCrash.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\FeedBackService.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\FeedBackService.baml
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EqAccountingEdit.g.cs
+A:\дИПЛОМ\SRB\SRB\obj\Debug\EqAccountingEdit.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\bin\Debug\SRB.exe.config
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\bin\Debug\SRB.exe
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\bin\Debug\SRB.pdb
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\SRB.csproj.AssemblyReference.cache
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\SRB.csproj.SuggestedBindingRedirects.cache
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\Accounting.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\AddEquipment.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\Auth.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\DeleteEq.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EditingEq.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EqAccounting.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EqAccountingDel.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EqAccountingEdit.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EqAccountReg.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EqAdd.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EqDeleting.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EqEdit.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\FeedbackCrash.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\FeedBackService.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\MainWindow.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\PopupUserControl.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\Stock.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\App.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\SRB_MarkupCompile.cache
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\SRB_MarkupCompile.lref
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\Accounting.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\AddEquipment.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\Auth.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\DeleteEq.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EditingEq.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EqAccounting.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EqAccountingDel.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EqAccountingEdit.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EqAccountReg.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EqAdd.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EqDeleting.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\EqEdit.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\FeedbackCrash.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\FeedBackService.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\MainWindow.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\PopupUserControl.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\Stock.baml
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\SRB.g.resources
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\SRB.Properties.Resources.resources
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\SRB.csproj.GenerateResource.cache
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\SRB.csproj.CoreCompileInputs.cache
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\SRB.exe
+C:\Users\jlwin\Downloads\Проект Visual Studio\Проект Visual Studio\SRB\SRB\obj\Debug\SRB.pdb

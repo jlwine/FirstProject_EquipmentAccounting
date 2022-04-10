@@ -1,0 +1,24 @@
+﻿<Page x:Class="SRB.FeedbackCrash"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SRB"
+      mc:Ignorable="d" 
+      d:DesignHeight="587" d:DesignWidth="1258"
+      Title="FeedbackCrash">
+
+    <Grid Background="#FF182834">
+        <Rectangle Fill="#00000000" HorizontalAlignment="Left" Height="376" Margin="349,84,0,0" Stroke="White" VerticalAlignment="Top" Width="496"/>
+        <Label Content="Сообщение о поломке" HorizontalAlignment="Left" Margin="496,84,0,0" VerticalAlignment="Top" FontFamily="Franklin Gothic Book" FontSize="18" Foreground="White" Width="187"/>
+        <ComboBox x:Name="CrashCombo" HorizontalAlignment="Left" Margin="361,153,0,0" VerticalAlignment="Top" Width="322" FontFamily="Franklin Gothic Book" FontSize="16" Height="30" Loaded="CrashCombo_Loaded"/>
+        <Label Content="Повреждённое оборудование" HorizontalAlignment="Left" Margin="361,123,0,0" VerticalAlignment="Top" FontFamily="Franklin Gothic Book" FontSize="18" Foreground="White" Width="250"/>
+        <DatePicker HorizontalAlignment="Left" Margin="361,222,0,0" VerticalAlignment="Top" Height="25" Width="215" BorderBrush="White" FontFamily="Franklin Gothic Book" FontSize="16"/>
+        <Label Content="Дата поломки" HorizontalAlignment="Left" Margin="361,192,0,0" VerticalAlignment="Top" FontFamily="Franklin Gothic Book" FontSize="18" Foreground="White" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="102" Margin="361,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="322" Background="Transparent" Foreground="White" BorderBrush="White" FontFamily="Franklin Gothic Book" FontSize="18"/>
+        <Label Content="Комментарий" HorizontalAlignment="Left" Margin="361,252,0,0" VerticalAlignment="Top" FontFamily="Franklin Gothic Book" FontSize="18" Foreground="White" Width="120"/>
+        <Button Content="Отправить" HorizontalAlignment="Center" Margin="433,0,503,137" VerticalAlignment="Bottom" Width="322" Background="#FF9AE4CF" BorderBrush="White" Height="28"/>
+
+
+    </Grid>
+</Page>

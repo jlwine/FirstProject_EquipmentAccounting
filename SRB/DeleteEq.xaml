@@ -1,0 +1,19 @@
+﻿<Page x:Class="SRB.DeleteEq"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SRB"
+      mc:Ignorable="d" d:DesignWidth="1400"
+      Title="DeleteEq" Background="#FF1C2F3E" Height="594.5">
+
+    <Grid Loaded="Grid_Loaded">
+        <DataGrid x:Name="SkladDelete" HorizontalAlignment="Left" Height="518" Margin="551,10,0,0" VerticalAlignment="Top" Width="813"/>
+        <Button Content="Обновить" HorizontalAlignment="Left" Margin="1049,533,0,0" VerticalAlignment="Top" Width="120" Height="30" FontWeight="SemiBold" Click="Button_Click_1"/>
+        <GroupBox Header="Удаление оборудования" HorizontalAlignment="Left" Height="207" Margin="10,137,0,0" VerticalAlignment="Top" Width="536" Foreground="White" FontWeight="Bold" FontSize="14">
+            <Label Content="Выберете оборудование для удаления" HorizontalAlignment="Left" Margin="64,35,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Normal"/>
+        </GroupBox>
+        <ComboBox x:Name="ComboEq" HorizontalAlignment="Left" Margin="86,222,0,0" VerticalAlignment="Top" Width="374" Loaded="ComboBox_Loaded"/>
+        <Button Content="Удалить" HorizontalAlignment="Left" Margin="220,260,0,0" VerticalAlignment="Top" Width="91" Height="28" FontSize="16" FontWeight="SemiBold" Click="Button_Click"/>
+    </Grid>
+</Page>
